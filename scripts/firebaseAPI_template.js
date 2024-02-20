@@ -9,7 +9,7 @@ var firebaseConfig = {
     messagingSenderId: ,
     appId:
 };
-
+ 
 //--------------------------------------------
 // initialize the Firebase app
 // initialize Firestore database if using it
